@@ -1,2 +1,2 @@
+edit master copy
 
-edit deveoper
